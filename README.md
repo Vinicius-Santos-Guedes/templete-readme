@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/React%20Native-0.60-informational?logo=React"></img>
   </a>  
   <a aria-label="Versão do Expo" href="https://expo.io/">
-    <img src="https://img.shields.io/badge/Expo-informational?logo=Expo"></img>
+    <img src="https://img.shields.io/badge/expo--CLI-3.11.5-informational?logo=expo"></img>
   </a>
 </p>
 
