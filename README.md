@@ -7,9 +7,6 @@
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
     <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS"></img>
   </a>
-  <a aria-label="Versão do WebSocket" href="">
-    <img src="https://img.shields.io/badge/websocket-informational?logo=socket"></img>
-  </a>  
   <a aria-label="Versão do React Native" href="https://reactnative.dev/">
     <img src="https://img.shields.io/badge/React%20Native-0.60-informational?logo=React"></img>
   </a>  
