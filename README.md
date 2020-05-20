@@ -44,9 +44,7 @@ const connection = mysql.createConnection({
 
 ![](./static/comousar.png)
 
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, 
-
-screenshots ou até um gif.
+Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots ou até um gif.
 
 ##  Como contribuir
 Exemplo de como contribuir com projeto:
