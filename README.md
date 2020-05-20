@@ -2,10 +2,20 @@
 > Breve descrição.
 
  #### Bibliotecas e tecnologias utilizadas:
-<p align="center">
-![](https://img.shields.io/badge/expo--CLI-3.11.5-informational?logo=expo) ![](https://img.shields.io/badge/react-16.12.0-
 
-informational?logo=react) ![](https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS)
+<p align="center">
+  <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
+    <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS"></img>
+  </a>
+  <a aria-label="Versão do WebSocket" href="">
+    <img src="https://img.shields.io/badge/websocket-informational?logo=socket"></img>
+  </a>  
+  <a aria-label="Versão do React Native" href="https://reactnative.dev/">
+    <img src="https://img.shields.io/badge/React%20Native-0.60-informational?logo=React"></img>
+  </a>  
+  <a aria-label="Versão do Expo" href="https://expo.io/">
+    <img src="https://img.shields.io/badge/Expo-informational?logo=Expo"></img>
+  </a>
 </p>
 
 Descrição completa
@@ -62,3 +72,4 @@ Exemplo de dependencias do projeto:
 Exemplo de licenças:
 
 The [MIT](./LICENSE) Licença
+
